@@ -12,6 +12,7 @@ Choose between ordering the generated numbers or leaving them unordered.
 Utilizes the secure rand::rngs::OsRng random number generator for improved randomness and security.
 Provides feedback when the requested number of unique numbers cannot be generated due to insufficient available options.
 User-friendly command-line interface for easy input and interaction.
+
 How to Use:
 
 Clone the repository to your local machine.
@@ -20,6 +21,7 @@ Navigate to the project directory using the terminal.
 Run the program using the command cargo run.
 Follow the on-screen prompts to enter the required input values.
 The program will generate the requested random numbers and display the results.
+
 Contributing:
 
 Contributions to Randomizer are welcome! If you find any issues, have new ideas, or want to improve the code, feel free to open an issue or submit a pull request. Let's make Randomizer even better together!
