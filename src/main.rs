@@ -3,7 +3,7 @@ use rand::rngs::OsRng;
 use std::collections::HashSet;
 use std::io;
 
-fn main() {
+fn main() { 
     
     loop {
            process_numbers_generation();

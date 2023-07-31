@@ -62,7 +62,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "read_file"
+name = "randomizer"
 version = "0.1.0"
 dependencies = [
  "rand",
